@@ -1,4 +1,4 @@
-# LI2-PL5G05
+# Stack Machine
 
 Implementation of an interpreter for a stack oriented programming language called __$OM__.
 
