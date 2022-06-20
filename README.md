@@ -7,15 +7,15 @@ This group project was fully developed in __C__ during the second semester of th
 # Guide
 ## Compile de project
 ```bash
-mix
+make
 ```
 ## Run the project
 ```bash
-mix run
+make run
 ```
 ## Clean the directory
 ```bash
-mix clean
+make clean
 ```
 
 # Developed by:
